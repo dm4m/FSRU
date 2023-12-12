@@ -7,7 +7,7 @@ by _AN Lao, Qi Zhang, Chongyang Shi, Longbing Cao, Kun Yi, Liang Hu, Duoqian Mia
 ![FSRU](./fig/model.jpg "FSRU")
 
 ## Dataset
-* Weibo
+* [Weibo](https://drive.google.com/file/d/14VQ7EWPiFeGzxp3XC2DeEHi-BEisDINn/view)
 * [Twitter (mediaeval)](https://github.com/MKLab-ITI/image-verification-corpus/tree/master/mediaeval2015)
 
 ## Dependencies
