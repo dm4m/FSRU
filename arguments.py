@@ -14,7 +14,7 @@ def parse_arguments(parser):
     parser.add_argument('--device', type=str, default='cuda:0', help='Device to use for training / testing')
     parser.add_argument('--decay_rate', type=float, default=0.98, help='Learning rate decay rate')
     parser.add_argument('--decay_step', type=int, default=5, help='Learning rate decay step')
-    parser.add_argument('--dropout', type=int, default=0.15, help='Dropout rate:0.15')
+    parser.add_argument('--dropout', type=float, default=0.15, help='Dropout rate:0.15')
     parser.add_argument('--d_model', type=int, default=256, help='Model dimension')
     parser.add_argument('--d_text', type=int, default=32, help='Text dimension weibo: 32')
     parser.add_argument('--img_size', type=int, default=224, help='')
